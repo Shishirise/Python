@@ -1,4 +1,5 @@
-```//Import the necessary package
+```java
+//Import the necessary package
 import java.util.*;
 
 //Declare public class 
