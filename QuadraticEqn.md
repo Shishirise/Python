@@ -58,8 +58,9 @@ public class Quadraticequations {
                     System.out.printf("x=%.2f or x=%.2f\n", x1, x2); // Call variables x1 and x2 
                 }
             }
-```
+
         }
     }
 }
+```
 
